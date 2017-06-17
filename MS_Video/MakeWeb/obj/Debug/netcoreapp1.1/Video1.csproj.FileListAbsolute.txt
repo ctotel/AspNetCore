@@ -1,0 +1,16 @@
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\bin\Debug\netcoreapp1.1\Video1.deps.json
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\bin\Debug\netcoreapp1.1\Video1.runtimeconfig.json
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\bin\Debug\netcoreapp1.1\Video1.runtimeconfig.dev.json
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\bin\Debug\netcoreapp1.1\Video1.dll
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\bin\Debug\netcoreapp1.1\Video1.pdb
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\obj\Debug\netcoreapp1.1\Video1.AssemblyInfo.cs
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\obj\Debug\netcoreapp1.1\Video1.dll
+D:\GitHub\AspNetCore\MS_video\Video1\ConsoleApp\obj\Debug\netcoreapp1.1\Video1.pdb
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\bin\Debug\netcoreapp1.1\Video1.deps.json
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\bin\Debug\netcoreapp1.1\Video1.runtimeconfig.json
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\bin\Debug\netcoreapp1.1\Video1.runtimeconfig.dev.json
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\bin\Debug\netcoreapp1.1\Video1.dll
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\bin\Debug\netcoreapp1.1\Video1.pdb
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\obj\Debug\netcoreapp1.1\Video1.AssemblyInfo.cs
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\obj\Debug\netcoreapp1.1\Video1.dll
+D:\GitHub\AspNetCore\MS_video\Video1\MakeWeb\obj\Debug\netcoreapp1.1\Video1.pdb
