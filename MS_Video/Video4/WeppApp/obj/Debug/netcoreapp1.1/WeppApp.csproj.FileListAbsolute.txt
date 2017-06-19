@@ -1,0 +1,10 @@
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\bin\Debug\netcoreapp1.1\WeppApp.deps.json
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\bin\Debug\netcoreapp1.1\WeppApp.runtimeconfig.json
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\bin\Debug\netcoreapp1.1\WeppApp.runtimeconfig.dev.json
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\bin\Debug\netcoreapp1.1\WeppApp.dll
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\bin\Debug\netcoreapp1.1\WeppApp.pdb
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\obj\Debug\netcoreapp1.1\WeppApp.csprojResolveAssemblyReference.cache
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\obj\Debug\netcoreapp1.1\WeppApp.AssemblyInfo.cs
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\obj\Debug\netcoreapp1.1\WeppApp.dll
+D:\GitHub\AspNetCore\MS_Video\Video4\WeppApp\obj\Debug\netcoreapp1.1\WeppApp.pdb
